@@ -10,7 +10,13 @@
 <br>🖰 bend with the wind
 <br>🖰 oouuu, coding's sure's somethin' else
 
-:see_no_evil: :hear_no_evil: :speak_no_evil: :trollface:
+:trollface:
+
+![](images/t_01.gif)
+![](images/t_02.gif)
+![](images/t_03.gif)
+![](images/t_04.gif)
+![](images/t_05.gif)
 <br>**peace** ✌︎
 <br>![](images/m_01.gif)
 ![](images/m_04.gif)
