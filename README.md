@@ -6,7 +6,7 @@
 <br>🖰 here and there, just m0nkeying, or tryin' stuff out
 <br>🖰 find somethin' not only to die for, but live for
 <br>🖰 don't waste time [at least, for the most part (try not to)] :kissing_heart:
-<br>🖰 those with the most ridiculous ideologies tend to be *so* sure of themselves (and try very hard to back themselves); beware
+<br>🖰 those with the most ridiculous ideologies tend to be *so* sure of themselves (and try very hard to back themselves up); beware
 <br>🖰 bend with the wind
 <br>🖰 oouuu, coding's sure's somethin' else
 
