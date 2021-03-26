@@ -1,6 +1,6 @@
 ![](images/01.gif)
 ![](images/banner.png)
-## quite simply, some things 🎋
+## quite simply, some things :tanabata_tree:
 *'cause I don't really feel like goin' off*
 <br>🖰 prolly figured out who I am already since you're here
 <br>🖰 here and there, just m0nkeying or tryin' stuff out
