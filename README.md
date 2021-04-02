@@ -1,7 +1,7 @@
 ![](images/01.gif)
 ![](images/banner.png)
 ## quite simply, some things :tanabata_tree:
-*'cause I don't really feel like goin' off*
+<br>
 <br>🖰 prolly figured out who I am already since you're here
 <br>🖰 here and there, just m0nkeying or tryin' stuff out
 <br>🖰 find somethin' not only to die for but live for
