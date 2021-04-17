@@ -14,6 +14,7 @@
 <br> croissants ![](images/croissant.png)
 <br> oolong tea ![](images/oolong_tea.png)
 <br> spicy stuff ![](images/hot_pepper.png)
+<br> boba tea ![](images/boba_tea.png)
 
 ![](images/t_01.gif)
 ![](images/t_02.gif)
