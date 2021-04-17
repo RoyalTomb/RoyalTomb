@@ -3,7 +3,7 @@
 ## quite simply, some things :tanabata_tree:
 #### 'cause you know, I am the M0nkey King
 <br>🖰 prolly figured out who I am already since you're here
-<br>🖰 here and there, just m0nkeying or tryin' stuff out
+<br>🖰 here and there, either busy doin' work, tryin' stuff out, or just m0nkeying
 <br>🖰 think for yourself; don't just blindly accept something
 <br>🖰 don't waste time [at least, for the most part (try not to)] :kissing_heart:
 <br>🖰 those with the most ridiculous ideologies tend to be so sure of themselves (and try very hard to back themselves up); beware
