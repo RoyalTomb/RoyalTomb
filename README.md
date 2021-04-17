@@ -4,13 +4,16 @@
 <br>
 <br>🖰 prolly figured out who I am already since you're here
 <br>🖰 here and there, just m0nkeying or tryin' stuff out
-<br>🖰 think for yourself
+<br>🖰 think for yourself, not because something told you otherwise
 <br>🖰 don't waste time [at least, for the most part (try not to)] :kissing_heart:
 <br>🖰 those with the most ridiculous ideologies tend to be so sure of themselves (and try very hard to back themselves up); beware
 <br>🖰 bend with the wind
 <br>🖰 yoinkers, coding's sure's somethin'
 
-:trollface:
+as one who lives to eat, here're some things me like to munch on :trollface:
+<br> croissants ![](images/croissant.png)
+<br> oolong tea ![](images/oolong_tea.png)
+<br> spicy stuff ![](images/hot_pepper.png)
 
 ![](images/t_01.gif)
 ![](images/t_02.gif)
