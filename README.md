@@ -10,7 +10,7 @@
 <br>🖰 bend with the wind
 <br>🖰 yoinkers, coding's sure's somethin'
 
-as one who lives to eat, here're some things me like to munch on :trollface:
+<br>as one who lives to eat, here're some things me like to munch on :trollface:
 <br> croissants ![](images/croissant.png)
 <br> oolong tea ![](images/oolong_tea.png)
 <br> spicy stuff ![](images/hot_pepper.png)
