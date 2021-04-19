@@ -2,7 +2,7 @@
 ![](images/banner.png)
 ## quite simply, some things :tanabata_tree:
 #### 'cause you know, I am the M0nkey King
-###### I guess this makes me a lovey-dovey, caring, extrovert? haha
+###### I guess this makes me a lovey-dovey, caring extrovert? hahaha
 <br>🖰 prolly figured out who I am already since you're here
 <br>🖰 here and there, either busy doin' work, tryin' stuff out, or just m0nkeying
 <br>🖰 think for yourself; don't just blindly accept something or make and accept blind conclusions
