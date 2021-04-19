@@ -1,5 +1,4 @@
 ![](images/01.gif)
-![](images/banner.png)
 ## quite simply, some things :tanabata_tree:
 #### 'cause you know, I am the M0nkey King
 <br>🖰 prolly figured out who I am already since you're here
