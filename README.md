@@ -5,7 +5,7 @@
 ###### I guess this makes me a lovey-dovey, caring extrovert? hahaha
 <br>🖰 prolly figured out who I am already since you're here
 <br>🖰 here and there, either busy doin' work, tryin' stuff out, or just m0nkeying
-<br>🖰 think for yourself; don't just blindly accept something or make and accept blind conclusions
+<br>🖰 think for yourself; don't just blindly accept something or make blind conclusions
 <br>🖰 don't waste time [at least, for the most part (try not to)] :kissing_heart:
 <br>🖰 those with the most ridiculous ideologies tend to be so sure of themselves (and try very hard to back themselves up); beware
 <br>🖰 bend with the wind
