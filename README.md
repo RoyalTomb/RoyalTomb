@@ -12,9 +12,11 @@
 
 <br> as one who lives to eat, here're some things me like to munch on :trollface:
 <br> croissants ![](images/croissant.png)
-<br> oolong tea 
-<br> spicy stuff 
-<br> boba tea 
+<br> oolong tea ![](images/oolong_tea.png)
+<br> spicy stuff ![](images/pepper.png)
+<br> boba tea ![](images/boba_tea.png)
+<br> cheese ![](images/cheese.png)
+<br> chocolate ![](images/chocolate.png)
 
 ![](images/t_01.gif)
 ![](images/t_02.gif)
