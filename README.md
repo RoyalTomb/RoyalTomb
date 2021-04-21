@@ -11,7 +11,7 @@
 <br>🖰 big yoinks, coding's sure's somethin'
 
 <br> as one who lives to eat, here're some things me like to munch on :trollface:
-<br> croissants ![](images/croissant.png)
+<br> croissants 
 <br> oolong tea ![](images/oolong_tea.png)
 <br> spicy stuff ![](images/hot_pepper.png)
 <br> boba tea ![](images/boba_tea.png)
