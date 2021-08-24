@@ -7,7 +7,7 @@
 <br>🖰 think for yourself; don't blindly accept something or make inexorable conclusions
 <br>🖰 don't waste time [at least, for the most part (try not to)] :kissing_heart:
 <br>🖰 those with the most ridiculous ideologies tend to be so sure of them (and try very hard to back 'em up); beware
-<br>🖰 bend with the wind
+<br>🖰 genuinity
 <br>🖰 oouuu, coding sure's somethin'
 
 <br> as one who lives to eat, here're some things me like to munch on :trollface:
