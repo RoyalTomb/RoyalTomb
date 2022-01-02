@@ -1,10 +1,10 @@
 ![](images/01.gif)
 ![](images/banner.png)
-## quite simply, some things :tanabata_tree:
-#### just random stuff picked up over the years
+## random stuff :tanabata_tree:
+#### from over the years
 <br>🖰 check out Philly
 <br>🖰 here and there, either busy doin' work, tryin' stuff out, or just m0nkeying
-<br>🖰 think for yourself; don't blindly accept something or make inexorable conclusions
+<br>🖰 don't blindly accept something or make inexorable conclusions
 <br>🖰 don't waste time [at least, for the most part (try not to)] :kissing_heart:
 <br>🖰 don't try to barbecue bacon
 <br>🖰 genuinity
