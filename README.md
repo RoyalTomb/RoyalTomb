@@ -1,12 +1,15 @@
 ![](images/p_01.gif)
+<h1 align="center">Ayyy, it's Royal -‿v</h1>
+
 ![](images/01.gif)
 ![](images/banner.png)
-## random stuff :tanabata_tree:
+<h2>random stuff </h2>
+
 #### from over the years
 <br>🖰 check out Philly
 <br>🖰 here and there, either busy doin' work, tryin' stuff out, or just m0nkeying
 <br>🖰 don't make inexorable conclusions
-<br>🖰 don't waste time [at least, for the most part (try not to)] :kissing_heart:
+<br>🖰 don't waste time [at least, for the most part (try not to)] :kissing_closed_eyes:
 <br>🖰 don't try to barbecue bacon
 <br>🖰 genuinity
 <br>🖰 oouuu, coding sure's somethin'
@@ -21,20 +24,28 @@
 <br> chocolate ![](images/chocolate.png)
 <br>
 <br>
+
+<h2>statistics</h2>
+<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoyalTomb&theme=material-palenight&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoyalTomb&theme=material-palenight)
 <br>
 <br>
-![](images/t_01.gif)
-![](images/t_02.gif)
-![](images/t_03.gif)
-![](images/t_04.gif)
-![](images/t_05.gif)
-<br>**Stay Steady** ✌︎
-<br>![](images/m_01.gif)
-![](images/m_04.gif)
-![](images/m_05.gif)
-![](images/m_02.gif)
-![](images/m_03.gif)
+<p align="center">
+<img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/t_01.gif">
+<img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/t_03.gif">
+<img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/t_04.gif">
+<img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/t_05.gif">
+</p>
+<p align="center"><b>Stay Steady</b> ✌︎</p>
+<p align="center">
+<img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/m_01.gif">
+<img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/m_05.gif">
+<img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/m_02.gif">
+<img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/m_03.gif">
+</p>
 <br>
+<br>
+
 ![](images/p_01.gif)
