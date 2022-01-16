@@ -5,7 +5,7 @@
 ![](images/banner.png)
 <h2>random stuff <img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/h_01.png"></h2>
 
-#### from over the years
+#### from over the years 🎋
 <br>🖰 check out Philly
 <br>🖰 here and there, either busy doin' work, tryin' stuff out, or just m0nkeying
 <br>🖰 don't make inexorable conclusions
