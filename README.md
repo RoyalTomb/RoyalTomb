@@ -5,13 +5,13 @@
 #### from over the years
 <br>🖰 check out Philly
 <br>🖰 here and there, either busy doin' work, tryin' stuff out, or just m0nkeying
-<br>🖰 don't blindly accept something or make inexorable conclusions
+<br>🖰 don't make inexorable conclusions
 <br>🖰 don't waste time [at least, for the most part (try not to)] :kissing_heart:
 <br>🖰 don't try to barbecue bacon
 <br>🖰 genuinity
 <br>🖰 oouuu, coding sure's somethin'
 
-<br> as one who lives to eat, here're some things me like to munch on :trollface:
+<br> as one who lives to eat, here're some things I like to indulge on :trollface:
 <br> croissants ![](images/croissant.png)
 <br> oolong tea ![](images/oolong_tea.png)
 <br> spicy stuff ![](images/pepper.png)
@@ -19,7 +19,12 @@
 <br> cephalopods ![](images/jellyfish.png)
 <br> cheese ![](images/cheese.png)
 <br> chocolate ![](images/chocolate.png)
-
+<br>
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoyalTomb&theme=material-palenight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoyalTomb&theme=material-palenight)
+<br>
+<br>
 ![](images/t_01.gif)
 ![](images/t_02.gif)
 ![](images/t_03.gif)
