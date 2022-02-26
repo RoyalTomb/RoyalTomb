@@ -45,6 +45,9 @@
 <img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/m_02.gif">
 <img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/m_03.gif">
 </p>
+<p align="center">
+<img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/w_01.png">
+</p>
 <br>
 <br>
 
