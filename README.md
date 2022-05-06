@@ -5,7 +5,7 @@
 ![](images/banner.png)
 <h2>random stuff <img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/h_01.png"></h2>
 
-#### from over the years 🎋
+#### from over the years ![](images/w_01.png)
 <br>🖰 check out Philly
 <br>🖰 here and there, either busy doin' work, tryin' stuff out, or just m0nkeying
 <br>🖰 don't make inexorable conclusions
@@ -38,7 +38,7 @@
 <img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/t_04.gif">
 <img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/t_05.gif">
 </p>
-<p align="center"><b>Stay Steady</b> </p>
+<p align="center"><b>Stay Steady</b> ✌︎</p>
 <p align="center">
 <img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/m_01.gif">
 <img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/m_05.gif">
@@ -46,7 +46,7 @@
 <img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/m_03.gif">
 </p>
 <p align="center">
-✌︎
+🎋
 </p>
 <br>
 <br>
