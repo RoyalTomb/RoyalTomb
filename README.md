@@ -1,7 +1,7 @@
 ![](images/p_01.gif)
 <h1 align="center">Ayyy, it's Royal -‿v <img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/hello.gif"></h1>
 
-![](images/01.gif)
+<img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/01.gif">
 ![](images/banner.png)
 <h2>random stuff <img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/h_01.png"></h2>
 
