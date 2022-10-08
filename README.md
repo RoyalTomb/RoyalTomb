@@ -1,55 +1,23 @@
-![](images/p_01.gif)
-<h1 align="center">Ayyy, it's Royal -‿v <img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/hello.gif"></h1>
-<p align="center">
-<img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/01.gif">
-<img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/banner.png">
- </p>
-<h2>random stuff <img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/h_01.png"></h2>
+I like hip-hop, cooking, basketball, diagnosing Japanese vehicles, archaeology, driving, writing, downloading music, old paintings, martial arts, eating, old eastern texts, adult swim, plants, the piano, Texas Hold'em, the Olympics, and chemistry. How I ultimately ended up here is beyond me
+***
 
-#### from over the years ![](images/w_01.png)
-<br>🖰 check out Philly
-<br>🖰 here and there, either busy doin' work, tryin' stuff out, or just m0nkeying
-<br>🖰 don't make inexorable conclusions
-<br>🖰 don't waste time [at least, for the most part (try not to)] :kissing_closed_eyes:
-<br>🖰 don't try to barbecue bacon
-<br>🖰 genuinity
-<br>🖰 oouuu, coding sure's somethin'
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-150x25.png?v=103)](https://github.com/RoyalTomb)
 
-<br> as one who lives to eat, here're some things I like to indulge on :trollface:
-<br> croissants ![](images/croissant.png)
-<br> oolong tea ![](images/oolong_tea.png)
-<br> spicy stuff ![](images/pepper.png)
-<br> boba tea ![](images/boba_tea.png)
-<br> cephalopods ![](images/jellyfish.png)
-<br> cheese ![](images/cheese.png)
-<br> chocolate ![](images/chocolate.png)
-<br>
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=6C4B76&vCenter=true&width=435&lines=Wassup+%F0%9F%97%BA%EF%B8%8F)](https://git.io/typing-svg)
 
-<h2>statistics <img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/h_02.png"></h2>
-<br>
+- HSDG :watermelon: BSSE UGRD :watermelon: Poof :deciduous_tree:
+- just trying to master my crafts. And, stay out of trouble :seedling:
+- usually here for smaller, casual projects. If I'm not here, I'm probably on VS Code. That, or I'm actually not sitting in front of a PC :sunflower:
+- _khao piak sen_ wit' oolong tea. Highly recommend ![Oolong Tea](/images/oolong_tea.png "Oolong Tea")
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoyalTomb&theme=material-palenight&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoyalTomb&theme=material-palenight)
-<br>
-<br>
-<p align="center">
-<img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/t_01.gif">
-<img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/t_03.gif">
-<img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/t_04.gif">
-<img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/t_05.gif">
-</p>
-<p align="center"><b>Stay Steady</b> ✌︎</p>
-<p align="center">
-<img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/m_01.gif">
-<img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/m_05.gif">
-<img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/m_02.gif">
-<img src="https://github.com/RoyalTomb/RoyalTomb/blob/main/images/m_03.gif">
-</p>
-<p align="center">
-🎋
-</p>
-<br>
-<br>
+## Workspace ![First Heading Image](/images/h_01.png "Welcome to my workspace")
 
-![](images/p_01.gif)
+| Languages                                                  | Tools | Other |
+|    :----:                                                  |    :----:   |    :----:   |
+|    [![HTML5 icon](/images/icons/html.svg "HTML5")](https://html.com/) [![CSS icon](/images/icons/css.svg "CSS3")](https://www.geeksforgeeks.org/css/) [![JavaScript icon](/images/icons/javascript.svg "JavaScript")](https://www.javascript.com/) [![Python icon](/images/icons/python.svg "Python")](https://www.python.org/) [![Markdown icon](/images/icons/markdown.svg "Markdown")](https://www.markdownguide.org/)    |    [![Notepad++ icon](/images/icons/notepad++.svg "Notepad++")](https://notepad-plus-plus.org/) [![VS Code icon](/images/icons/vs_code.svg "VS Code")](https://code.visualstudio.com/) [![Firebase icon](/images/icons/firebase.svg "Google Firebase")](https://firebase.google.com/) | [![Blender icon](/images/icons/blender.svg "Blender v 2.80")](https://www.blender.org/) [![GIMP icon](/images/icons/gimp.svg "GIMP 2.10.12")](https://www.gimp.org/) |
+***
+
+## Metrics ![Second Heading Image](/images/h_02.png "See my metrics")
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoyalTomb&theme=material-palenight&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoyalTomb&theme=material-palenight)
+***
