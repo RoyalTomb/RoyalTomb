@@ -20,4 +20,3 @@ I like hip-hop, cooking, basketball, diagnosing Japanese vehicles, archaeology, 
 ## Metrics ![Second Heading Image](/images/h_02.png "See my metrics")
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoyalTomb&theme=material-palenight&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoyalTomb&theme=material-palenight)
-***
