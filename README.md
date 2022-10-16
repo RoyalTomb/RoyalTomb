@@ -10,13 +10,13 @@ I like hip-hop, cooking, basketball, diagnosing Japanese vehicles, archaeology, 
 - usually here for smaller, casual projects. If I'm not here, I'm probably on VS Code. That, or I'm actually not sitting in front of a PC :sunflower:
 - _khao piak sen_ wit' oolong tea. Highly recommend ![Oolong Tea](/images/oolong_tea.png "Oolong Tea")
 
-## Workspace ![First Heading Image](/images/h_01.png "Welcome to my workspace")
+## Workspace ![First Heading Image](/images/h_01.svg "Welcome to my workspace")
 
 | Languages                                                  | Tools | Other |
 |    :----:                                                  |    :----:   |    :----:   |
-|    [![HTML5 icon](/images/icons/html.svg "HTML5")](https://html.com/) [![CSS icon](/images/icons/css.svg "CSS3")](https://www.geeksforgeeks.org/css/) [![JavaScript icon](/images/icons/javascript.svg "JavaScript")](https://www.javascript.com/) [![Java icon](/images/icons/java.svg "Java")](https://www.java.com/en/)  [![Python icon](/images/icons/python.svg "Python")](https://www.python.org/) [![Markdown icon](/images/icons/markdown.svg "Markdown")](https://www.markdownguide.org/)    |    [![Notepad++ icon](/images/icons/notepad++.svg "Notepad++")](https://notepad-plus-plus.org/) [![VS Code icon](/images/icons/vs_code.svg "VS Code")](https://code.visualstudio.com/) [![Firebase icon](/images/icons/firebase.svg "Google Firebase")](https://firebase.google.com/) | [![Blender icon](/images/icons/blender.svg "Blender v 2.80")](https://www.blender.org/) [![GIMP icon](/images/icons/gimp.svg "GIMP 2.10.12")](https://www.gimp.org/) |
+|    [![HTML5 icon](/images/icons/html.svg "HTML5")](https://html.com/) [![CSS icon](/images/icons/css.svg "CSS3")](https://www.geeksforgeeks.org/css/) [![JavaScript icon](/images/icons/javascript.svg "JavaScript")](https://www.javascript.com/) [![Java icon](/images/icons/java.svg "Java")](https://www.java.com/en/)  [![Python icon](/images/icons/python.svg "Python")](https://www.python.org/) [![Markdown icon](/images/icons/markdown.svg "Markdown")](https://www.markdownguide.org/)   |    [![Notepad++ icon](/images/icons/notepad++.svg "Notepad++")](https://notepad-plus-plus.org/) [![VS Code icon](/images/icons/vs_code.svg "VS Code")](https://code.visualstudio.com/) [![Firebase icon](/images/icons/firebase.svg "Google Firebase")](https://firebase.google.com/) | [![Blender icon](/images/icons/blender.svg "Blender v 2.80")](https://www.blender.org/) [![GIMP icon](/images/icons/gimp.svg "GIMP 2.10.12")](https://www.gimp.org/) |
 ***
 
-## Metrics ![Second Heading Image](/images/h_02.png "See my metrics")
+## Metrics ![Second Heading Image](/images/h_02.svg "See my metrics")
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoyalTomb&theme=material-palenight&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoyalTomb&theme=material-palenight)
