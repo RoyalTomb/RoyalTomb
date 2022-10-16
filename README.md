@@ -1,4 +1,4 @@
-I like hip-hop, cooking, basketball, diagnosing Japanese vehicles, archaeology, driving, writing, downloading music, old paintings, martial arts, eating, old eastern texts, adult swim, plants, the piano, Texas Hold'em, the Olympics, and chemistry. How I ultimately ended up here is beyond me
+I like hip-hop, cooking, basketball, diagnosing Japanese vehicles, archaeology, driving, writing, downloading music, old paintings, martial arts, eating, classic eastern texts, adult swim, plants, the piano, Texas Hold'em, the Olympics, and chemistry. How I ultimately ended up here is beyond me
 ***
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-150x25.png?v=103)](https://github.com/RoyalTomb)
