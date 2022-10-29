@@ -1,14 +1,15 @@
-I like hip-hop, cooking, basketball, diagnosing Japanese vehicles, archaeology, driving, writing, downloading music, old paintings, martial arts, eating, old eastern texts, adult swim, plants, the piano, Texas Hold'em, the Olympics, and chemistry. How I ultimately ended up here is beyond me
+I like hip-hop, cooking, basketball, diagnosing Japanese vehicles, archaeology, driving, writing, downloading music, old paintings, martial arts, eating, classic eastern texts, adult swim, plants, vice, the piano, Texas Hold'em, the Olympics, and chemistry. How I ultimately ended up here is beyond me
 ***
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-150x25.png?v=103)](https://github.com/RoyalTomb)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=6C4B76&vCenter=true&width=435&lines=Wassup+%F0%9F%97%BA%EF%B8%8F)](https://git.io/typing-svg)
 
-- :watermelon: HSDG :watermelon: BSSE UGRD :watermelon:
-- just trying to master my crafts. And stay out of trouble :seedling:
-- usually here for smaller, casual projects. If I'm not here, I'm probably on VS Code. That, or I'm actually not sitting in front of a PC :sunflower:
-- _khao piak sen_ wit' oolong tea. Highly recommend ![Oolong Tea](/images/oolong_tea.png "Oolong Tea")
+- Software Engineering Undergrad :watermelon:
+    - I still think I should have stuck with my first decision :tooth:
+- Just trying to master my crafts. And stay out of trouble :seedling:
+- Usually here for smaller, casual projects. If I'm not here, I'm probably on VS Code. That, or I'm actually not sitting in front of a PC :sunflower:
+- _Khao piak sen_ wit' oolong tea. Highly recommend ![Oolong Tea](/images/oolong_tea.png "Oolong Tea")
 
 ## Workspace ![First Heading Image](/images/h_01.svg "Welcome to my workspace")
 
