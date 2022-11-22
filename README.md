@@ -22,9 +22,6 @@ I like hip-hop, cooking, basketball, diagnosing Japanese vehicles, archaeology, 
 
 <table>
 <tr>
-<td colspan = "2"><h3></h3></td>
-</tr>
-<tr>
 <td> <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9c/8d/88/9c8d8848-8b0c-6653-68e2-add0f66a0d23/853499007308.jpg/632x632bb-60.jpg" alt="Thot Breaker" width="225" height="225"> 
 </td>
 <td>
