@@ -108,5 +108,5 @@ Someone
 ## Connections ![Fifth Heading Image](/images/h_05.png "Featured connections")
 [![Replit Connection Icon](/images/icons/c_replit.png "Replit")](https://replit.com/@RoyalTomb)
 [![Chess.com Connection Icon](/images/icons/c_chess.png "Chess.com")](https://www.chess.com/member/royaltomb)
-[![Webpage Connection Icon](/images/icons/c_webpage.png "Webpage")](https://htmlpreview.github.io/?https://raw.githubusercontent.com/RoyalTomb/old_skool_site/main/index.html)
+[![Webpage Connection Icon](/images/icons/c_webpage.png "Webpage")](https://html-preview.github.io/?url=https://github.com/RoyalTomb/old_skool_site/blob/main/index.html)
 [![Linkedin Connection Icon](/images/icons/c_linkedin.png "LinkedIn")](https://youtu.be/dQw4w9WgXcQ?si=j108wx_OEW_qy9fw)
