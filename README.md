@@ -1,4 +1,6 @@
-<img src="images/h_sy.png" alt="My Back" width=650px height="100%" style="display: block; margin: 0 auto">
+<p align="center">
+  <img src="images/h_sy.png" alt="My Back" width=650px height="100%">
+</p>
 
 I like hip-hop, cooking, basketball, diagnosing Japanese vehicles, archaeology, driving, writing, downloading music, old paintings, martial arts, eating, classic eastern texts, games, adult swim, plants, National Geographic, VICE, the piano, Texas Hold'em, meeting nice people, the Olympics, and chemistry. How I ultimately ended up on here is beyond me
 ***
