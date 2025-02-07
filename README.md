@@ -1,11 +1,13 @@
 <p align="center">
-  <img src="images/h_sy.png" alt="My back" width=650px height="100%">
+  <img src="images/h_sm.png" alt="My back" width=650px height="100%">
 </p>
 
 I like hip-hop, cooking, basketball, diagnosing Japanese vehicles, archaeology, driving, writing, downloading music, old paintings, martial arts, eating, classic eastern texts, games, adult swim, plants, National Geographic, VICE, the piano, Texas Hold'em, meeting nice people, the Olympics, and chemistry. How I ultimately ended up on here is beyond me
 ***
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=103)](https://github.com/RoyalTomb)
+![Open-Source Banner](/images/icons/banner_open-source.png "I <3 Open-Source")
+
+![STEM Banner](/images/icons/banner_stem.png "I <3 STEM")
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=6C4B76&vCenter=true&width=435&lines=Wassup+%F0%9F%97%BA%EF%B8%8F)](https://git.io/typing-svg)
 
