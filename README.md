@@ -26,75 +26,15 @@ I like hip-hop, cooking, basketball, diagnosing Japanese vehicles, archaeology, 
 
 ## Most Recently Played: ![Second Heading Image](/images/h_02.png "What I've recently listened to")
 
-<table>
-<tr>
-<td> <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/32/f1/ad/32f1add7-bdf2-b117-eaff-ebf93e5cb241/888915724972_cover.jpg/592x592bf-60.jpg" alt="Trust Nobody - Single" width="185" height="185"> 
-</td>
-<td>
-<p><b>Trust Nobody - Single </b><img src="https://help.apple.com/assets/61E8978F5D1DCE4C5971BF42/61E8978F5D1DCE4C5971BF49/en_US/b144a5415d0e593aca03b3a7e40b810e.png" width="19px" height="19px">
-</p>
-<a href="https://music.apple.com/us/artist/%24tupid-young/444628011">$tupid Young</a>
-<p>
-HIP-HOP/RAP · 2018
-</p>
-<br>
-<p>
-1  
-<a href="https://music.apple.com/us/album/trust-nobody/1435403864?i=1435403867">
-Trust Nobody
-</a>
-<img src="https://help.apple.com/assets/61E8978F5D1DCE4C5971BF42/61E8978F5D1DCE4C5971BF49/en_US/b144a5415d0e593aca03b3a7e40b810e.png" width="9px" height="9px">
-</p>
-</td>
-</tr>
-</table>
+| ![AC 01](images/ac_01.jpg "Heartless - Single")<br />Heartless - Single ![Explicit icon](images/icons/tag_e_01.png) | ![AC 02](images/ac_02.jpg "Trust Nobody - Single")<br />Trust Nobody - Single ![Explicit icon](images/icons/tag_e_01.png) | ![AC 03](images/ac_03.jpg "Loud Pack")<br />Loud Pack ![Explicit icon](images/icons/tag_e_01.png) |
+|:-:|:-:|:-:|
+| [**Yungn True**](https://music.apple.com/us/artist/yungn-true/1355954684)<br />HIP-HOP/RAP · 2022 | [**$tupid Young**](https://music.apple.com/us/artist/%24tupid-young/444628011)<br />HIP-HOP/RAP · 2018 | [**Yung Jae**](https://music.apple.com/us/artist/yung-jae/838648363)<br />HIP-HOP/RAP · 2016 |
+| 1 [Heartless](https://music.apple.com/us/song/heartless/1644019720) ![Explicit icon](images/icons/tag_e_02.png) | 1 [Trust Nobody](https://music.apple.com/us/song/trust-nobody/1435403867) ![Explicit icon](images/icons/tag_e_02.png) | 7 [Can't Deny (feat. Heartbreaka & Tee Cambo)](https://music.apple.com/us/song/cant-deny-feat-heartbreaka-tee-cambo/1188974190) ![Explicit icon](images/icons/tag_e_02.png) |
 
-<table>
-<tr>
-<td> <img src="https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/32/ba/c3/32bac349-acf0-6544-bb3a-388a2ed0dcd7/artwork.jpg/592x592bf-60.jpg" alt="Tee Cambo: The Untitled Project" width="185" height="185"> 
-</td>
-<td>
-<p><b>Tee Cambo: The Untitled Project </b><img src="https://help.apple.com/assets/61E8978F5D1DCE4C5971BF42/61E8978F5D1DCE4C5971BF49/en_US/b144a5415d0e593aca03b3a7e40b810e.png" width="19px" height="19px">
-</p>
-<a href="https://music.apple.com/us/artist/cambo-movement/1128877975">Cambo Movement</a>
-<p>
-HIP-HOP/RAP · 2016
-</p>
-<br>
-<p>
-1  
-<a href="https://music.apple.com/us/album/do-that/1130525706?i=1130526304">
-Do That
-</a>
-<img src="https://help.apple.com/assets/61E8978F5D1DCE4C5971BF42/61E8978F5D1DCE4C5971BF49/en_US/b144a5415d0e593aca03b3a7e40b810e.png" width="9px" height="9px">
-</p>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td> <img src="https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/63/55/55/63555512-2161-11d3-81c7-22e6ad9227b4/859729926906_cover.jpg/592x592bf-60.jpg" alt="Someone - Single" width="185" height="185"> 
-</td>
-<td>
-<p><b>Someone - Single </b><img src="https://help.apple.com/assets/61E8978F5D1DCE4C5971BF42/61E8978F5D1DCE4C5971BF49/en_US/b144a5415d0e593aca03b3a7e40b810e.png" width="19px" height="19px">
-</p>
-<a href="https://music.apple.com/us/artist/marvin-dolo/1179170802">Marvin Dolo</a>
-<p>
-R&B/SOUL · 2018
-</p>
-<br>
-<p>
-1  
-<a href="https://music.apple.com/us/album/someone/1446305751?i=1446305762">
-Someone
-</a>
-<img src="https://help.apple.com/assets/61E8978F5D1DCE4C5971BF42/61E8978F5D1DCE4C5971BF49/en_US/b144a5415d0e593aca03b3a7e40b810e.png" width="9px" height="9px">
-</p>
-</td>
-</tr>
-</table>
-
+| ![AC 04](images/ac_04.jpg "Federal 3X")<br />Federal 3X ![Explicit icon](images/icons/tag_e_01.png) | ![AC 05](images/ac_05.jpg "Tee Cambo: The Untitled Project")<br />Tee Cambo: The Untitled Project ![Explicit icon](images/icons/tag_e_01.png) | ![AC 06](images/ac_06.jpg "Year of the Gentleman (Deluxe Edition)")<br />Year of the Gentleman (Deluxe Edition) |
+|:-:|:-:|:-:|
+| [**Moneybagg Yo**](https://music.apple.com/us/artist/moneybagg-yo/991187319)<br />HIP-HOP/RAP · 2017 | [**Cambo Movement**](https://music.apple.com/us/artist/cambo-movement/1128877975)<br />HIP-HOP/RAP · 2016 | [**Ne-Yo**](https://music.apple.com/us/artist/ne-yo/78257321)<br />R&B/SOUL · 2008 |
+| 4 [Doin’ It](https://music.apple.com/us/song/doin-it/1440901034) ![Explicit icon](images/icons/tag_e_02.png) | 1 [Do That](https://music.apple.com/us/song/do-that/1130526304) ![Explicit icon](images/icons/tag_e_02.png) | 5 [Miss Independent](https://music.apple.com/us/song/miss-independent/1445834188) |
 
 
 ## Metrikz ![Third Heading Image](/images/h_03.png "See my metrikz")
@@ -103,11 +43,13 @@ Someone
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoyalTomb&langs_count=6&theme=moltack) ![Repo Chart](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RoyalTomb&theme=moltack&exclude=) ![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RoyalTomb&theme=moltack)
 
+
 ## Book List ![Fourth Heading Image](/images/h_04.png "Spent 75% of a paycheck on the entire 'Journey to the West' x'd")
 | ![First Book](/images/b_01.png "Overyear. Shoutout the Greatest professor of all of cci :1Hunned:") | ![Second Book](/images/b_02.png "Chinese Cinderella") | ![Third Book](/images/b_03.png "Tomorrow I'm Dead") |
 |:---:|:---:|:---:|
 | **Overyear** | **Chinese Cinderella** | **Tomorrow I'm Dead** |
 | Dr. G | Adeline Yen Mah | Bun Yom |
+
 
 ## Connections ![Fifth Heading Image](/images/h_05.png "Featured connections")
 [![Replit Connection Icon](/images/icons/c_replit.png "Replit")](https://replit.com/@RoyalTomb)
